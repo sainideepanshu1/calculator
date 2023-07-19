@@ -1,0 +1,27 @@
+*{
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: #D8DBE2;
+}
+input[type=text]{
+    height:50px;
+    width: 200px;
+    text-align: right;
+    border-radius: 10px;
+    background-color: #D8DBE2;
+}
+button{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    background-color: #A9BCD0;
+    border-radius: 10px;
+}
+table{
+    background-color: #58A4B0;
+    padding: 20px 25px;
+    border-radius: 16px;
+    box-shadow: 5px 5px rgba(149, 149, 149, 0.34);
+}
